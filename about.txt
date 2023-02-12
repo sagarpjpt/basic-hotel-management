@@ -1,0 +1,3 @@
+a basic hotel management project
+using C++ 
+feel free to add any suggestion :)
